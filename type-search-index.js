@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.sjsu.assignment4","l":"Gradebook"},{"p":"edu.sjsu.assignment4","l":"Main"},{"p":"edu.sjsu.assignment4","l":"MyCollections"},{"p":"edu.sjsu.assignment4","l":"MyCollectionsTest"},{"p":"edu.sjsu.assignment4","l":"Student"}];updateSearchResults();
